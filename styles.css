@@ -1,0 +1,24 @@
+
+body {
+	overflow: scroll;
+	height: auto;
+    color: rgb(255, 251, 0);
+}html {
+  height: auto;
+  margin: auto;
+  width: auto;
+  background-color: rgb(0, 37, 248);
+  background-repeat: no-repeat;
+  background-size: 20%;
+  background-image: url("images/New\ realistc\ moon.jpg");
+}
+body {
+    background-image: url("images/COED\ FOOD.png");
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    border-radius: 20%;
+    border-color: blue;
+    border-style: solid;
+}
