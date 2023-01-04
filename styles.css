@@ -8,6 +8,8 @@ body {
   margin: auto;
   width: auto;
   background-image: url("images/New\ realistc\ moon.jpg");
+  background-size: auto;
+  background-repeat: no-repeat;
 
   
 }
@@ -15,9 +17,17 @@ body {
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
     background-image: url("images/COED\ FOOD.png");
+    background-size: auto;
+    background-repeat: no-repeat;
 }
 h1 {
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
     color: white;
+}
+a {
+    color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    
 }
