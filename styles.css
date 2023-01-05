@@ -8,7 +8,7 @@ body {
   margin: auto;
   width: auto;
   background-image: url("images/New\ realistc\ moon.jpg");
-  background-size: auto;
+  background-size: cover;
   background-repeat: no-repeat;
 
   
